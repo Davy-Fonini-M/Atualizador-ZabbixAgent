@@ -28,3 +28,5 @@ sc query "Zabbix Agent"
 Conclusão
 
 Seguindo este tutorial, você utilizará um instalador automático que cuida de todo o processo de desinstalação, instalação e configuração do Zabbix Agent sem a necessidade de intervenção manual. Certifique-se sempre de executar o instalador com permissões de administrador para garantir seu funcionamento adequado.
+
+![PHOTO-2024-10-11-13-44-54](https://github.com/user-attachments/assets/46078bb8-dc0c-414b-9c81-7ee12cbb0c28)
